@@ -84,3 +84,17 @@ typings/
 .idea/modules.xml
 .idea/sonarlint/
 .idea/workspace.xml
+
+.vscode
+.idea/**/*
+.vscode/**/*
+mochawesome-report
+.DS_Store
+npm-debug.log.*
+node_modules
+node_modules/**/*
+cert
+logs/*
+desktop.ini
+package-lock.json
+.history
