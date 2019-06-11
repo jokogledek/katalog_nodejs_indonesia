@@ -77,3 +77,10 @@ typings/
 .idea
 .idea/
 
+.idea/inspectionProfiles/
+.idea/jsLibraryMappings.xml
+.idea/katalog_nodejs_indonesia.iml
+.idea/misc.xml
+.idea/modules.xml
+.idea/sonarlint/
+.idea/workspace.xml
